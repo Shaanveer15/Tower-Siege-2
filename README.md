@@ -1,2 +1,1 @@
-# Tower-Siege-2
-Made on VSC
+# TowerSiege-1
